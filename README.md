@@ -1,2 +1,2 @@
 # DL-Assignement
-This is the repoistery fro DL Assignemnets
+All files are available individualy in this repo
